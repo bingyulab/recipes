@@ -5,4 +5,4 @@
 * oil: 10 per kg
 * honey: 3.2 per Jar
 * lemon: 0.1 lt
-
+* peel the avocado
