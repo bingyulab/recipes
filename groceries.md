@@ -4,3 +4,5 @@
 * salt: 2 per kg
 * oil: 10 per kg
 * lemon: 0.1 lt
+# Market B
+* Tomato 1 Kg
